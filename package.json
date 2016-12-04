@@ -6,10 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "chao2",
   "license": "ISC",
   "devDependencies": {
   },
+  "keywords": [
+    "weex",
+    "babel",
+    "es6",
+    "scss",
+    "sass",
+    "gulp"
+  ],
   "dependencies": {
     "babel-core": "^6.18.2",
     "gulp-util": "^3.0.7",
