@@ -29,7 +29,7 @@ gulp.task('weex-source', function(){
 			babel_options: {
 				presets: ['es2015'],
 			},
-			// sass_options: {},
+			// scss_options: {},
 			// weex: '.weex', // extname
 			// scss: '.scss', // extname
 			// es6: '.es6', // extname
